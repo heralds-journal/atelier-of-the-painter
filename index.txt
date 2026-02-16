@@ -2,7 +2,7 @@
 2:I[9766,[],""]
 3:I[8924,[],""]
 5:I[1959,[],"ClientPageRoot"]
-6:I[8337,["503","static/chunks/503-5b78fefb4d533a95.js","693","static/chunks/693-9463f8df19487a73.js","974","static/chunks/app/page-6a7d049387f2580e.js"],"default"]
+6:I[8337,["503","static/chunks/503-5b78fefb4d533a95.js","693","static/chunks/693-9463f8df19487a73.js","974","static/chunks/app/page-b023cfa2a94110aa.js"],"default"]
 9:I[4431,[],"OutletBoundary"]
 b:I[5278,[],"AsyncMetadataOutlet"]
 d:I[4431,[],"ViewportBoundary"]
@@ -11,8 +11,8 @@ f:I[4431,[],"MetadataBoundary"]
 12:I[7150,[],""]
 :HL["/atelier-of-the-painter/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/atelier-of-the-painter/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/atelier-of-the-painter/_next/static/css/b53dfd5725033543.css","style"]
-0:{"P":null,"b":"Xcj-xwteKz0wAo_6llEB8","p":"/atelier-of-the-painter","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/atelier-of-the-painter/_next/static/css/b53dfd5725033543.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_4dbd72 __variable_466f12 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L4",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+:HL["/atelier-of-the-painter/_next/static/css/58ed82ff0fd0ddab.css","style"]
+0:{"P":null,"b":"64j587hMK-Z_GkppIZTsE","p":"/atelier-of-the-painter","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/atelier-of-the-painter/_next/static/css/58ed82ff0fd0ddab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_4dbd72 __variable_466f12 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L4",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
 4:E{"digest":"NEXT_REDIRECT;replace;/;307;"}
 7:{}
 8:"$0:f:0:1:2:children:1:props:children:0:props:params"
